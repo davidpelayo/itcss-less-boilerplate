@@ -17,6 +17,7 @@ This isn't a LESS framework. There is no actual LESS or CSS included, it's just 
 ## References
 
 [LESS CSS Mess - good article from Thomas Byttebier](http://thomasbyttebier.be/blog/less-css-mess)
+
 [Manage Large Scale Web Projects - new CSS Architecture](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731)
 
 ---
