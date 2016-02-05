@@ -1,0 +1,28 @@
+{
+  "name": "itcss-less-boilerplate",
+  "version": "1.0.0",
+  "description": "LESS boilerplaet project following the ITCSS pattern",
+  "main": "application.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpelayo/itcss-less-boilerplate.git"
+  },
+  "keywords": [
+    "itcss",
+    "css",
+    "less",
+    "patterns",
+    "sass",
+    "boilerplate",
+    "bootstrapping"
+  ],
+  "author": "David Pelayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidpelayo/itcss-less-boilerplate/issues"
+  },
+  "homepage": "https://github.com/davidpelayo/itcss-less-boilerplate#readme"
+}
